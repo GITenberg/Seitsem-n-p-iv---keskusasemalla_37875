@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39106
     wikipedia: http://fi.wikipedia.org/wiki/Johan_Kock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37875#Seitsem-n-p-iv---keskusasemalla
 gutenberg_issued: '2011-10-29'
 gutenberg_type: Text
 identifiers:
